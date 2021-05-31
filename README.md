@@ -1,6 +1,11 @@
 - 👋 Hi, I’m @Gwyllgy actually this is my gamertag. You can call me RON 👍👍👍
-- 👀 I’m interested specially in Programming using VStudio and character modelling using BLENDER.
-- 🌱 I’m currently learning C# as my main Programming language, in the future i want to learn other PL's.
+- 👀 I’m interested specially in **✨Programming✨** using VStudio and character modelling using 🔥🔥**BLENDER**🔥🔥.
+- 🌱 I’m currently learning **C#** as my main Programming language, in the future i want to learn other PL's.
+
+
+
+>>programming is about creativity, building and using something you're proud of ❤️❤️❤️
+>>>
 
 
 <!---
